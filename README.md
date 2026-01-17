@@ -1,4 +1,3 @@
-# NumberGuessingGame.cpp
 # Number Guessing Game 🎮
 
 A simple interactive game built with "C++"
